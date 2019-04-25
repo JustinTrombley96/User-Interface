@@ -62,5 +62,125 @@ h1, h2, h3, h4, h5 {
     letter-spacing: 1px;
     margin-bottom: 15px;
 }
-
 /* Your code starts here! */
+
+nav {
+	text-align: center	
+}
+a {
+	margin: 50px;
+	text-decoration: none;
+	color: grey;
+}
+
+
+h1 {
+	font-size: 80px;
+	padding-bottom: 20px;
+	padding-top: -50px;
+
+
+}
+.notButton {
+	color: black;
+	padding: 5px 40px;
+	border: solid black 2px;
+	
+}
+.main {
+	height: 400px;
+}
+.leftMain {
+	display: inline-block;
+	height: 100px;
+	width: 40% ;
+	text-align: center ;
+}
+.rightMain {
+	display: inline-block;
+	height: 100px ;
+	width: 40% ;
+	text-align: center;
+	padding-top: 50px
+}
+.line1 {
+	margin: 0px 20px 40px 20px;
+}
+.left1 {
+	display: inline-block;
+	height: 100px;
+	width: 45% ;
+	margin: 40px 60px 40px 0px
+}
+.right1 {
+	display: inline-block;
+	height: 100px ;
+	width: 45% ;
+	padding-top: 50px;
+}
+.line2 {
+	display: block;
+	
+
+}
+.middle-img{
+	width: 100%;
+}
+.line3 {
+	height: 100px;
+	margin: 40px, 20px 40px 0px;
+}
+.left3 {
+	display: inline-block;
+	height: 100px ;
+	width: 30% ;
+	margin: 40px 60px 40px 20px;
+	
+}
+.middle3 {
+	display: inline-block;
+	height: 100px ;
+	width: 30% ;
+	
+	
+}
+
+
+.right3 {
+	display: inline-block;
+	height: 100px ;
+	width: 30% ;
+	
+}
+.copyright {
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	margin: 40px 60px 40px 20px;
+
+	
+
+}
+.hr1 {
+	margin: 80px auto 0px auto;
+  width: 1000px;
+
+
+}
+.hr2 {
+	margin: 80px auto 0 auto;
+	width: 1000px;
+}
+body {
+	width: 1400px;
+	margin: 0 auto;
+}
+.content {
+		margin: 0 auto;
+		width: 1000px;
+		text-align: left;
+}
+.contacts {
+	display: inline-block;
+	margin: 40px 60px 40px 225px
+}
